@@ -1,0 +1,21 @@
+.cards{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.boton{
+    background-color: #B69352;
+    color: #fff;
+    border-radius: 3px;
+    width: 25%;
+    padding: 4px;
+    border: none;
+}
+
+.boton:hover {
+    background-color: gray; /* Green */
+    color: white;
+    border-radius: 3px;
+}
